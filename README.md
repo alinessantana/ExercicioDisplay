@@ -12,3 +12,7 @@
 <p>4. Box Model. </p>
   
 <div align = center><h3>Imagem do que foi construído : <h3></div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/110197793/182977435-999d0f95-9cd4-4bfd-970e-96ed9bb1212d.png" width="800px" />
+</div>
+
